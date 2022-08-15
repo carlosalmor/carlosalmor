@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **backend course**
-
 - 📫 How to reach me **karlosalmor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
