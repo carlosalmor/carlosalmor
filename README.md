@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **karlosalmor@gmail.com**
 
-- LinkedIn **    **
+- LinkedIn **https://www.linkedin.com/in/carlos-almor-llopis-2798b4196**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
