@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 📫 How to reach me **karlosalmor@gmail.com**
+- 📫 How to reach me **carlosalmor@yahoo.es**
 
 - LinkedIn **https://www.linkedin.com/in/carlos-almor-llopis-2798b4196**
 
