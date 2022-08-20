@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- Página Web **https://carlosalmor.es**
+- Web page **https://carlosalmor.es**
 
 - 📫 How to reach me **carlosalmor@yahoo.es**
 
