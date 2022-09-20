@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Almor</h1>
-<h3 align="center">A passionate Junior Front-end Developer from Spain</h3>
+<h3 align="center">A passionate Front-end Developer from Spain</h3>
 
 - 🔭 I’m currently working on **freelance**
 
