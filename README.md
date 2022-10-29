@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- Web page **https://carlosalmor.es**
 
 - 📫 How to reach me **carlosalmor@yahoo.es**
 
-- LinkedIn **https://www.linkedin.com/in/carlos-almor-llopis-2798b4196**
+
 
 
 
